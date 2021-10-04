@@ -12,9 +12,10 @@ To match D2R:
 - Auto gold pickup
 - Ladder-only Runewords
 - Ebug doesn't work anymore
+- Cow level repeatable
 - Nilathek portal fixed
 - Uber events w/ minions
-- Diablo Clone
+- Diablo Clone spawns
 
 Extras not in D2R:
 
@@ -26,7 +27,7 @@ Extras not in D2R:
 - Install the game
 - Patch to [1.13d](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_113d.exe)
 - Paste in the files
-- Run with ``-3dfx -direct -txt`` in the game shortcut
+- Run with ``-3dfx -direct -txt``
 
 ## Credits
 
