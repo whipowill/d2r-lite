@@ -4,6 +4,7 @@ A mod pack for the original Diablo II game client that closely mimics the settin
 
 ## Mods
 
+- Widescreen resolutions.
 - 10x10 stash size.
 - 3 pages of shared stash.
 - Auto gold pickup.
