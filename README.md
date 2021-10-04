@@ -7,13 +7,14 @@ A mod pack for the original Diablo II game client that closely mimics the settin
 - 10x10 stash size.
 - 3 pages of shared stash.
 - Auto gold pickup.
+- Ladder-only Runewords.
 - Uber events, Diablo Clone.
 - Loot filter (not in D2R).
 - Map hack (not in D2R).
 
 ## Install
 
-Paste in the files, run with ``-direct -txt -3dfx`` in the game shortcut.
+Paste in the files, run with ``-3dfx -direct -txt`` in the game shortcut.
 
 ## Credits
 
