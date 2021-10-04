@@ -2,14 +2,22 @@
 
 A mod pack for the original Diablo II game client that closely mimics the settings of Diablo II Resurrected.  This is designed to be paired with [D2R->D2LOD Save Converter](https://github.com/whipowill/node-d2s-converter) to make playing your characters seamless between clients.
 
-## Mods
+## Modifications
 
-- Widescreen resolutions.
-- 10x10 stash size.
-- 3 pages of shared stash.
-- Auto gold pickup.
-- Ladder-only Runewords.
-- Uber events, Diablo Clone.
+To match D2R:
+
+- Widescreen resolutions
+- 10x10 stash size
+- 3 pages of shared stash
+- Auto gold pickup
+- Ladder-only Runewords
+- Ebug doesn't work anymore
+- Nilathek portal fixed
+- Uber events w/ minions
+- Diablo Clone
+
+Extras:
+
 - Loot filter (not in D2R).
 - Map hack (not in D2R).
 
