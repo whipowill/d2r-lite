@@ -23,7 +23,10 @@ Extras not in D2R:
 
 ## Install
 
-Paste in the files, run with ``-3dfx -direct -txt`` in the game shortcut.
+- Install the game
+- Patch to [1.13d](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_113d.exe)
+- Paste in the files
+- Run with ``-3dfx -direct -txt`` in the game shortcut
 
 ## Credits
 
