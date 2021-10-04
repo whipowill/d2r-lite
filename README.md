@@ -16,10 +16,10 @@ To match D2R:
 - Uber events w/ minions
 - Diablo Clone
 
-Extras:
+Extras not in D2R:
 
-- Loot filter (not in D2R).
-- Map hack (not in D2R).
+- Loot filter + map hack (optional)
+- Relocate Cain in Act 5
 
 ## Install
 
